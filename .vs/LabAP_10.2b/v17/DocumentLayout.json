@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fisto\\source\\repos\\LabAP_10.2b\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8317C3-96E8-49EB-A0C8-2E2F30C3EB92}|..\\UnitTest2\\UnitTest2.vcxproj|C:\\Users\\fisto\\source\\repos\\UnitTest2\\UnitTest2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EE62B5-AFB5-496D-A30C-4BD7177243F0}|LabAP_10.2b.vcxproj|C:\\Users\\fisto\\source\\repos\\LabAP_10.2b\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{58EE62B5-AFB5-496D-A30C-4BD7177243F0}|LabAP_10.2b.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest2.cpp",
+              "DocumentMoniker": "C:\\Users\\fisto\\source\\repos\\UnitTest2\\UnitTest2.cpp",
+              "RelativeDocumentMoniker": "..\\UnitTest2\\UnitTest2.cpp",
+              "ToolTip": "C:\\Users\\fisto\\source\\repos\\UnitTest2\\UnitTest2.cpp",
+              "RelativeToolTip": "..\\UnitTest2\\UnitTest2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-27T18:31:03.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\fisto\\source\\repos\\LabAP_10.2b\\Source.cpp",
+              "RelativeDocumentMoniker": "Source.cpp",
+              "ToolTip": "C:\\Users\\fisto\\source\\repos\\LabAP_10.2b\\Source.cpp",
+              "RelativeToolTip": "Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-27T18:27:24.125Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
